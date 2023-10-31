@@ -13,8 +13,9 @@ O projeto se baseia na criação de uma dado normal, por meio de 2 resistores,  
 
 https://youtu.be/lwFGYrOpSB4 - apresentação
 
+
+
 [Codigo.zip](https://github.com/Leolfaa/Dado-Eletr-nico/files/13205034/Codigo.zip)
 
-[Pastas.pdf](https://github.com/Leolfaa/Dado-Eletr-nico/files/13199845/Pastas.pdf)
 
 ![Pasta do projeto imagem](https://github.com/Leolfaa/Dado-Eletr-nico/assets/145991364/93e844d5-58a1-43af-b28b-124cf0ff6943)
